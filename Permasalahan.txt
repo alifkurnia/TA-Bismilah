@@ -1,0 +1,6 @@
+1. What : Server VPN Remote dan DNS Adblock
+2. When : Ketika client membutuhkan kontrol jaringan rumah dan juga DNS Adblock
+3. Where : 
+4. Who : client yang membutuhkan remote terhadap rumahnya seperti akses cctv, atau bahkan kontrol home automationnya sendiri
+5. Why : Penggunaan server konvensional yang sangat menyita tempat dan membutuhkan requirentment yang sangat banyak
+6. How : 
